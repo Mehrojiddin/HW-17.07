@@ -13,14 +13,14 @@
 // alert(cnt)
 
 
-// //Task 3
+// // //Task 3
 
-let str = prompt ("Enter your words")
-cnt=0;
-potato=""
+// let str = prompt ("Enter your words")
+// cnt=0;
+// potato=""
 
-let find = str.match(/potato/g)
-alert(find.length)
+// let find = str.match(/potato/g)
+// alert(find.length)
 
 
 
@@ -28,3 +28,11 @@ alert(find.length)
 
 // let numbers = prompt ("Enter something")
 // alert(Number.numbers)
+
+
+
+// Task 4
+
+let number1 = +prompt ("Enter something")
+let number2 = +prompt ("Enter something")
+alert(number1*number2)

@@ -54,3 +54,30 @@ potatoes("potatoapple") ➞ 1
 
 ### I did this task with match string method, which i will need present about String Search method in 18.07
 
+
+## Task 4
+4.	Miserable Parody of a Calculator
+
+Create a function that will handle simple math expressions. The input is an expression in the form of a string.
+calculator("23+4") ➞ 27
+
+calculator("45-15") ➞ 30
+
+calculator("13+2-5*2") ➞ 5
+
+calculator("49/7*2-3") ➞ 11
+
+## Didnt it
+
+## Task 5
+5) Area of a Rectangle
+Create a function that calculates the area of a rectangle. If the arguments are invalid, your function must return -1.
+area(3, 4) ➞ 12
+
+area(10, 11) ➞ 110
+
+area(-1, 5) ➞ -1
+
+area(0, 2) ➞ -1
+### I know this task dont make at same way. But result is true.
+Thank you and good night!
