@@ -29,4 +29,28 @@ Try completing this challenge without using any:
 
 ### I did whis task with Math method "pow"
 
-2
+## Task 2
+2.	Repeating Letters
+
+Create a function that takes a string and returns a string in which each character is repeated once.
+
+2. Повторяющиеся буквы
+
+Создайте функцию, которая принимает строку и возвращает строку, в которой каждый символ повторяется один раз.
+
+"String" => "SSttrriinngg"
+"Hello World!" => "HHeelllloo WWoorrlldd!!"
+### I did this task with pool and charat
+
+
+## Task 3
+3.	Find the Amount of Potatoes
+Create a function to return the amount of potatoes there are in a string.
+potatoes("potato") ➞ 1
+
+potatoes("potatopotato") ➞ 2
+
+potatoes("potatoapple") ➞ 1
+
+### I did this task with match string method, which i will need present about String Search method in 18.07
+
