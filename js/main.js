@@ -31,8 +31,15 @@
 
 
 
-// Task 4
+// Task 5
 
 let number1 = +prompt ("Enter something")
 let number2 = +prompt ("Enter something")
-alert(number1*number2)
+res=number1*number2
+if(res<=0)
+{
+    alert(res=-1)
+}
+else{
+    alert(res=number1*number2)
+}
